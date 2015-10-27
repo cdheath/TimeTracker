@@ -1,0 +1,9 @@
+c:\users\corey.heath\documents\visual studio 2012\Projects\TimerManager\TimerManager\bin\Debug\TimerManager.exe.config
+c:\users\corey.heath\documents\visual studio 2012\Projects\TimerManager\TimerManager\bin\Debug\TimerManager.exe
+c:\users\corey.heath\documents\visual studio 2012\Projects\TimerManager\TimerManager\bin\Debug\TimerManager.pdb
+c:\users\corey.heath\documents\visual studio 2012\Projects\TimerManager\TimerManager\obj\Debug\TimerManager.csprojResolveAssemblyReference.cache
+c:\users\corey.heath\documents\visual studio 2012\Projects\TimerManager\TimerManager\obj\Debug\TimerManager.Properties.Resources.resources
+c:\users\corey.heath\documents\visual studio 2012\Projects\TimerManager\TimerManager\obj\Debug\TimerManager.TimerDisplay.resources
+c:\users\corey.heath\documents\visual studio 2012\Projects\TimerManager\TimerManager\obj\Debug\TimerManager.csproj.GenerateResource.Cache
+c:\users\corey.heath\documents\visual studio 2012\Projects\TimerManager\TimerManager\obj\Debug\TimerManager.exe
+c:\users\corey.heath\documents\visual studio 2012\Projects\TimerManager\TimerManager\obj\Debug\TimerManager.pdb
